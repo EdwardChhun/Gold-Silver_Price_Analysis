@@ -1,11 +1,13 @@
-TO BE ABLE TO RUN THIS CODE:
+# Gold vs Silver Price Analysis - Using Python / Pandas Library
 You need jupyter notebook and upload the files onto the ide.
 
 This is written in python and make sure you download the modules needed.
 To download, execute:
-"pip install numpy"
-"pip install pandas"
-"pip install matplotlib"
+```
+pip install numpy
+pip install pandas
+pip install matplotlib
+```
 
 Also make sure the directory for pd.read_csv("....") are correct
 
