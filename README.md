@@ -2,7 +2,7 @@ TO BE ABLE TO RUN THIS CODE:
 You need jupyter notebook and upload the files onto the ide.
 
 This is written in python and make sure you download the modules needed.
-To download execute 
+To download, execute:
 "pip install numpy"
 "pip install pandas"
 "pip install matplotlib"
