@@ -9,6 +9,7 @@
 6. Should you either invest in Gold or Silver?
 
 > This program is written in Python and make sure you download the modules needed.
+
 > Reading into the main python program with a computer is preffered
 
 ## Where did I get this data from?
