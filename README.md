@@ -9,6 +9,7 @@
 6. Should you either invest in Gold or Silver?
 
 > This program is written in Python and make sure you download the modules needed.
+> Reading into the main python program with a computer is preffered
 
 ## Where did I get this data from?
 This data was uploaded on Kaggle as a CSV file for both the gold and silver prices. [https://www.kaggle.com/datasets/kapturovalexander/gold-and-silver-prices-2013-2023]
