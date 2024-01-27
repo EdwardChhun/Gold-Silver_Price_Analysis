@@ -22,9 +22,7 @@ The CSV files of gold and silver are included in the repository for you to check
 ## What if I want to be able to tweak and run the program?
 > Download these dependencies:
 ```
-pip install numpy
-pip install pandas
-pip install matplotlib
+pip install numpy pandas matplotlip
 ```
 > Also make sure the directory for pd.read_csv("....") are correct in the source code
 
